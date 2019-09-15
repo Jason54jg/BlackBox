@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/jason54pe/BlackBox
+branches:
+- master
+projects:
+  BlackBox:
+    path: ""
+...

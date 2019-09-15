@@ -1,0 +1,5 @@
+name: BlackBox
+author: BlackTeam
+version: 1.0.0
+main: Box\BlackBox
+api: 3.2.0
